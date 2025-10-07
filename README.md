@@ -4,3 +4,4 @@ taco bell
 blah
 **text is bold**
 ***this is italic***
+<mark>highlight</mark>
