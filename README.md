@@ -5,3 +5,7 @@ blah
 **text is bold**
 ***this is italic***
 <mark>highlight</mark>
+'''
+const a=10
+var b =20
+'''
